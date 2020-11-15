@@ -4,7 +4,7 @@
 <img src=https://github.com/CristiDatas/08_2020_individual_viviendas/blob/main/resources/images/housesbanner.png>
 
 ## LOGROS:
-Destacar que el bootcamp comienza el 15 de junio de 2020 y este proyecto lo realizo en una semana de agosto dee 2020, automatizando todo con funciones y módulos propios y usando la librería Plotly para crear gráficos interactivos sin haber recibido previamente ninguna noción al respecto.
+Destacar que el bootcamp comienza el 15 de junio de 2020 y este proyecto lo realizo en una semana de agosto de 2020, automatizando todo con funciones y módulos propios y usando la librería Plotly para crear gráficos interactivos sin haber recibido previamente ninguna noción al respecto.
 
 Tanto la extracción, como el tratamiento y el análisis y visualización de datos están automatizados mediante diversas funciones, documentadas en el archivo **[main.ipynb](https://github.com/CristiDatas/08_2020_individual_viviendas/blob/main/src/main.ipynb "main.ipynb")** y en sus correspondientes [módulos](https://github.com/CristiDatas/08_2020_individual_viviendas/tree/main/src/utils "utils").
 
