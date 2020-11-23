@@ -10,7 +10,7 @@ Tanto la extracción, como el tratamiento y el análisis y visualización de dat
 
 Por ejemplo una misma función es capaz de generar todos los gráficos correspondientes a diversos ámbitos geográficos y a distintas operaciones (venta o alquiler) con sólo cambiar los parámetros y esa misma función muestra los gráficos por pantalla y también los guarda con nombres personalizados dentro de sus correspondientes [carpetas](https://github.com/CristiDatas/08_2020_individual_viviendas/tree/main/resources/plots), tanto en versión estática (.png) como dinámica e interactiva (.html).
 
-LOGROS:
+### Archivos y carpetas personales:
 
 
 
